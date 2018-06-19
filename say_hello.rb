@@ -1,5 +1,5 @@
 
-def say_hello(your_name)
+def say_hello("Karlie Kloss")
   puts "Hello #{your_name}"
 end
 
