@@ -14,7 +14,7 @@ say_hello("Gabriela")
 
 # The method prints this text to the screen:
 Hello Gabriela!
-```
+```say_hello("Gabriela")
 
 There is one more thing this method should do: if you call on this method and forget to give it the name of a person, it should just say, `"Hello Ruby Programmer!"`. Use a default argument to accomplish this!
 
